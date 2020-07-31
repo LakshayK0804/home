@@ -19,8 +19,7 @@ const Footer = () => {
       <p>
         <small className="text-muted">
           {" "}
-          Project code is open source. Feel free to fork and make your own
-          version.
+          Coded with love by a pationate 16 year old.
         </small>
       </p>
     </footer>
